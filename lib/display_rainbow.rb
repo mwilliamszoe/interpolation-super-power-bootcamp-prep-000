@@ -1,4 +1,5 @@
 # Write your #display_rainbow method here
-def
-print_business_card(person)
+
+def display_rainbow(colors)
+  
 end
